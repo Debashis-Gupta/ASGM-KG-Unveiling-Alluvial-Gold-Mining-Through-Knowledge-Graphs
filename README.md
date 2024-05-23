@@ -127,21 +127,27 @@ This Table shows a summary of our framework while applying on the Codex-S test d
 
 
 ### Corresponding Author
-Debashis Gupta <br>
-Email: guptd23@wfu.edu
+---
+
+**Debashis Gupta** <br>
+[guptd23@wfu.edu](mailto:guptd23@wfu.edu) <br>
+Department of Computer Science  <br>
+Wake Forest University 
+
 ### License and Copyright
-This project is developed and copyright reserved by the computer scientist and biologist expert of Wake Forest’s Intelligent Remote Sensing in Conservation & Discovery Group [(IRSC Lab)](https://irsc-wfu.github.io/). Please contact Prof. Dr. Paul Pauca or Dr. Sarra Alqahtani for further information. 
-<div style="display: flex; justify-content: flex-start;">
-  <div style="margin-right: 50px;">
-    <strong>V. Paúl Pauca</strong><br>
-    Professor<br>
-    Department of Computer Science<br>
-    Wake Forest University
-  </div>
-  <div>
-    <strong>Sarra Alqahtani</strong><br>
-    Assistant Professor<br>
-    Department of Computer Science<br>
-    Wake Forest University
-  </div>
-</div>
+This project is developed and copyright reserved by the computer scientist and biologist expert of Wake Forest’s Intelligent Remote Sensing in Conservation & Discovery Group [(IRSC Lab)](https://irsc-wfu.github.io/). Please contact Prof. Dr. Paul Pauca or Dr. Sarra Alqahtani for further information.
+
+---
+**V. Paúl Pauca**  
+Professor  
+[paucavp@wfu.edu](mailto:paucavp@wfu.edu)  
+Department of Computer Science  
+Wake Forest University  
+
+---
+
+**Sarra Alqahtani**  
+Assistant Professor  
+[sarra-alqahtani@wfu.edu](mailto:sarra-alqahtani@wfu.edu)  
+Department of Computer Science  
+Wake Forest University
