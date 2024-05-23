@@ -120,9 +120,12 @@ This Table shows a summary of our framework while applying on the Codex-S test d
 </div>
 
 # Brief Desription of Downstream Task
+We have implemented three downstream tasks in our web-framework of ASGM-KG and these are - 
 - Query the knowledge graph
 - Summary of the knowledge graph
 - Chat with the knowledge graph
+  
+Please see the [downstream task](asgm_web_app/README.md) for more details.
 
 
 
