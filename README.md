@@ -65,12 +65,12 @@ A sample output from the RDF extraction looks like below:
 |--------------------------|------------|-------------------|
 | amazon region                  | contains   | biodiversity   |
 | amazon region | source of | water |
-|amazon region| source of | food |
-|gold mining | source of | livelihoods |
-|gold mining | source of | income |
-|mercury| released in| water |
-|mercury| contaminates|plants|
-|mercury| contaminates| animals |
+| amazon region | source of | food |
+| gold mining | source of | livelihoods |
+| gold | burned with | mercury amalgams |
+| mercury | released in| water |
+| mercury | contaminates | plants |
+| mercury | contaminates | animals |
 
 This is an example of extraction from the following text -
 
