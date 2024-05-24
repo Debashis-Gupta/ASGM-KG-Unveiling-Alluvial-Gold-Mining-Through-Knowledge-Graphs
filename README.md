@@ -28,7 +28,7 @@ pip install -r requirements.txt
 <div style="text-align: justify">
 
 After installing all the required packages, ensure that the following configurations -
-1. Take the session of co-pilot GPT-4 (*pro if you have*) and create a **cookies.json** file in the **code** directory.
+1. Take the session of Microsoft Copilot (*pro if you have*) and create a **cookies.json** file in the **code** directory.
 2. Get API-key of page rank from [open-page-rank](https://www.domcop.com/openpagerank/what-is-openpagerank) website.
 3. If you want to extract the information from the PDFs itself, please see the TABLE-2 of the paper and the corresponding listed urls and download the pdfs and save them in the **data/pdf** directory.
 
