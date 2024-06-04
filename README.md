@@ -116,6 +116,8 @@ As mentioned in the paper, DAS validation framework has been applied to the *CoD
 
 This Table shows a summary of our framework while applying on the Codex-S test dataset describing the result of the triples from positive and negative triples indicated by ground truth (GT) column, the prediction (PR) refers the output of the framework and actual ground truth (AGT) actual label of the ground truth by cross-checking the open-source knowledge and expert opinion. The Web Reference and Logical Reasoning columns show the context of the top 3 Web references and the explanation behind the prediction of the framework respectively. Whenever the `GT = AGT` and `PR = GT` then it implies that our framework correctly labels the triple and if `PR ≠ GT` but `PR = AGT` this implies the ground truth (GT) is wrong labeled.
 
+Following two figures illustrate the performance of our framework on without (left) and with (right) ground truth checking.
+
 
 </div>
 
