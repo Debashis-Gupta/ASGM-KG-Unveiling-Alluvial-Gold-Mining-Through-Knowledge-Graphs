@@ -1,6 +1,5 @@
 # Project Title: ASGM-KG: Unveiling the Dynamics of Alluvial Gold Mining Through Knowledge Graphs
 
-
 # Brief Description of the Paper
 
 <div style="text-align: justify">
