@@ -130,7 +130,7 @@ We have implemented three downstream tasks in our web-framework of ASGM-KG and t
 Please see the [downstream task](asgm_web_app/README.md) for more details.
 
 
-
+<!-- a 
 ### Corresponding Author
 ---
 
@@ -156,3 +156,4 @@ Assistant Professor
 [sarra-alqahtani@wfu.edu](mailto:sarra-alqahtani@wfu.edu)  
 Department of Computer Science  
 Wake Forest University
+--> 
