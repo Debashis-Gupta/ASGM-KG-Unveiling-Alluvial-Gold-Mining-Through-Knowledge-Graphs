@@ -1,4 +1,4 @@
-# Project Title: ASGM-KG: Unveiling the Dynamics of Alluvial Gold Mining Through Knowledge Graphs
+# Project Title: Scalable Knowledge Graph Construction from Unstructured Text: A Case Study on Artisanal and Small-Scale Gold Mining
 
 # Brief Description of the Paper
 
